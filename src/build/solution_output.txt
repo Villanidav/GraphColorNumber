@@ -1,0 +1,2 @@
+ -> Chromatic Number: 4 rank = 3
+Coloring 1 2 0 0 1 1 2 3 2 1 0 
