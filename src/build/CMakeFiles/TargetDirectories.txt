@@ -1,3 +1,0 @@
-/home/davide-villani/Desktop/hpc-challenge/ChromaticNumber/src/build/CMakeFiles/hpc_challenge.dir
-/home/davide-villani/Desktop/hpc-challenge/ChromaticNumber/src/build/CMakeFiles/edit_cache.dir
-/home/davide-villani/Desktop/hpc-challenge/ChromaticNumber/src/build/CMakeFiles/rebuild_cache.dir

@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/hpc_challenge.dir/parallel.cc.o -o hpc_challenge  -Wl,-rpath,/usr/lib/x86_64-linux-gnu/openmpi/lib /usr/lib/x86_64-linux-gnu/openmpi/lib/libmpi_cxx.so /usr/lib/x86_64-linux-gnu/openmpi/lib/libmpi.so 
